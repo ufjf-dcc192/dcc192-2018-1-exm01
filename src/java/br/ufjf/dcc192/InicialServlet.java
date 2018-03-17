@@ -46,6 +46,7 @@ public class InicialServlet extends HttpServlet {
             out.println("<li><a href='tabela-pessoas.html'>Pessoas (tabela)</a></li>");
             out.println("<li><a href='requisicao.html'>Requisição</a></li>");
             out.println("<li><a href='soma.html'>Soma</a></li>");
+            out.println("<li><a href='produto.html'>Produto</a></li>");
             out.println("</ul>");
             out.println("</body>");
             out.println("</html>");
